@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-09-30T06:12:41.159Z
-# Size: 733
+# Last Updated: 2023-09-30T06:12:57.844Z
+# Size: 734
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,7 +23,6 @@ speedtest.asvt.ru
 speed.data.cr
 speedtest.ddps.jp
 ookla-speedtest.fsr.com
-speedtest.hay.net
 +.speedtest.i3d.net
 speedtesta.kpn.com
 speedtest.krhs.de
@@ -53,7 +52,6 @@ speedtest12.hkbn.net
 speedtest1b.hkix.net
 st1.htva.net
 speedtest.inoc.net
-40gspeedtest.mnsi.net
 clg-105-sptest.ncri.com
 speedtest.nwic.com
 snjscarc-speed01.nwrd.net
@@ -156,12 +154,13 @@ sp-de.nuxt.cloud
 speedtest-lhr-01.pdx.net.uk
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
-speedtest.quadro.net
 speedtest2.rhitcr.com
 stajax.rogers.com
 stguelph.rogers.com
 stlondon.rogers.com
 stmilton.rogers.com
+stoshawa.rogers.com
+stmarkham.rogers.com
 sttoronto.rogers.com
 stbrampton.rogers.com
 sthamilton.rogers.com
@@ -173,26 +172,25 @@ stetobicoke.rogers.com
 stkitchener.rogers.com
 stnorthyork.rogers.com
 stpickering.rogers.com
-ststratford.rogers.com
 stwoodstock.rogers.com
+stbowmanville.rogers.com
 stmississauga.rogers.com
 stscarborough.rogers.com
 stguelphwireless.rogers.com
 stlondonwireless.rogers.com
 stmiltonwireless.rogers.com
-stsarniawireless.rogers.com
+stoshawawireless.rogers.com
 stchathamwireless.rogers.com
 sttorontowireless.rogers.com
-stwindsorwireless.rogers.com
 sthamiltonwireless.rogers.com
 ststthomaswireless.rogers.com
 stbrantfordwireless.rogers.com
 stkitchenerwireless.rogers.com
 stnorthyorkwireless.rogers.com
-ststratfordwireless.rogers.com
 stwoodstockwireless.rogers.com
 stgeorgetownwireless.rogers.com
 stleamingtonwireless.rogers.com
+stbowmanvillewireless.rogers.com
 stmississaugawireless.rogers.com
 ststcatharineswireless.rogers.com
 stwellandpelhamwireless.rogers.com
@@ -400,16 +398,20 @@ speedtest.jbarbieri.net
 kadoshtest.kadoshnet.com
 speedtest16.lintas.net.id
 sptest2.mgts-spdop.ru
-speedtest.mornington.ca
 speedtest-sg.napinfo.co.id
+stajax.netcrawler.ca
 stguelph.netcrawler.ca
 stlondon.netcrawler.ca
+stoshawa.netcrawler.ca
+stwhitby.netcrawler.ca
+stmarkham.netcrawler.ca
 stbrampton.netcrawler.ca
 sthamilton.netcrawler.ca
 stwaterloo.netcrawler.ca
 stetobicoke.netcrawler.ca
 stnorthyork.netcrawler.ca
 stpickering.netcrawler.ca
+stbowmanville.netcrawler.ca
 stmississauga.netcrawler.ca
 stscarborough.netcrawler.ca
 netgearsj.com
@@ -445,7 +447,6 @@ speedtest-lon.veloxserv.net
 velocimetro-mns.virtua.com.br
 speed-test.westelcom.com
 speedtest.bnsamerica.net
-speedtest.brooketel.coop
 speedtest.citytelecom.ru
 lon-hex-speedtest.cloudconnx.net
 speed.cloudflare.com
