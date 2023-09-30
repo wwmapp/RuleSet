@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-09-30T06:12:57.844Z
-# Size: 734
+# Last Updated: 2023-09-30T12:10:47.569Z
+# Size: 736
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -209,7 +209,6 @@ laspeed.wiline.com
 speedam.wsp.net.br
 spdtst.xenyth.net
 dpop.yondoo.com
-ookla-sv.zawakun.jp
 speedtest02a.web.zen.net.uk
 speedtest.139play.com
 speedtest.5x5tele.com
@@ -233,7 +232,6 @@ speedtest.fios.net.br
 iperf.gakijken.nl
 london.speedtest.highnet.com
 speedtest.host.com.tw
-teste.i9va.net.br
 speedtest1.indosat.com
 sp1.jump.net.uk
 ct-speed.kbro.com.tw
@@ -340,6 +338,7 @@ speedtest.eu.kamatera.com
 speedtest.eu-lo.kamatera.com
 speedtest.us-mi.kamatera.com
 ookla.speedtest.seattle.wa.limewave.net
+speedtest.linkchina.hk
 speedtest-1.litfibre.com
 m1speedtest1.m1net.com.sg
 speedtest-ams.melbicom.net
@@ -395,7 +394,6 @@ speedtest1.gigafy.com.au
 speedtest.thn.uk.hso-group.net
 speedtest.inforr.com.br
 speedtest.jbarbieri.net
-kadoshtest.kadoshnet.com
 speedtest16.lintas.net.id
 sptest2.mgts-spdop.ru
 speedtest-sg.napinfo.co.id
@@ -492,6 +490,7 @@ speed1.spitfireuk.net
 speedtest.swishfibre.com
 speedtest-dallas.swyftfiber.com
 speedtestlon.telefonica.com
+speedtest.telnext.net.br
 speedtest.tropic-host.de
 speedtest.upnetix.com.br
 speedtest.vanciscloud.nl
@@ -508,6 +507,7 @@ speedtest.yless4u.com.au
 speedtest.airlink.network
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
+speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -691,6 +691,7 @@ ookla.araujotelecom.com.br
 miami.getstreamhosting.com
 speedtest.getstreamhosting.com
 velocidade.idnetttelecom.com.br
+speedtest.infowayconect.com.br
 speedtest-sydney.macquarietelecom.com
 speedtest-brisbane.macquarietelecom.com
 speedtest-melbourne.macquarietelecom.com
@@ -730,6 +731,7 @@ ookla.siditelecom-isp.com.br
 speedtest.webfibertelecom.com.br
 askeycsit.dyndns-ip.com
 speedtest-tesa.coelhotecnologia.com.br
+speedtest.fiberlinknetwork.com.br
 +.linknetspeedtest.net.br
 speedtest.mirror.serversaustralia.com.au
 velocidade.ultralinktelecom.com.br
