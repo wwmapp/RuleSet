@@ -1,0 +1,56 @@
+{
+  "name": "ruleset.skk.moe",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "build": "node ./Build/index.js",
+    "lint": "eslint --format=sukka ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukkaW/Surge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cliqz/adblocker": "^1.26.6",
+    "@sukka/listdir": "^0.2.0",
+    "@vercel/fetch-retry": "^5.1.3",
+    "async-sema": "^3.1.1",
+    "ci-info": "^3.8.0",
+    "cidr-tools-wasm": "^0.0.11",
+    "eslint": "^8.50.0",
+    "fs-extra": "^11.1.1",
+    "gorhill-publicsuffixlist": "github:gorhill/publicsuffixlist.js",
+    "jest-worker": "^29.7.0",
+    "mnemonist": "^0.39.5",
+    "path-scurry": "^1.10.1",
+    "picocolors": "^1.0.0",
+    "punycode": "^2.3.0",
+    "table": "^6.8.1",
+    "tar": "^6.2.0",
+    "tldts": "^6.0.14",
+    "undici": "5.24.0"
+  },
+  "devDependencies": {
+    "@eslint-sukka/node": "4.0.0-beta.14",
+    "@types/mocha": "^10.0.2",
+    "@types/node": "^20.6.0",
+    "chai": "^4.3.8",
+    "eslint-config-sukka": "4.0.0-beta.14",
+    "eslint-formatter-sukka": "4.0.0-beta.11",
+    "mocha": "^10.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "@vercel/fetch-retry@5.1.3": "patches/@vercel__fetch-retry@5.1.3.patch"
+    },
+    "overrides": {
+      "has": "npm:@nolyfill/has@latest"
+    }
+  }
+}
