@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-09-30T12:10:47.569Z
+# Last Updated: 2023-10-01T12:11:10.805Z
 # Size: 736
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -33,7 +33,6 @@ speedtest.nrbn.ca
 s1.pfst.ru
 lax01.ookla.rcp.net
 speedtest.rit.edu
-speedtest.ropa.de
 speedtest.sits.su
 speedtest.tigo.cr
 speedtest-srv01.tut.net
@@ -48,6 +47,7 @@ speedtest3.dacor.de
 speedtest.dcs1.biz
 uw1a.ookla-speedtests.e2ro.com
 speedtest-dc08.enzu.com
+speed.galbo.io
 speedtest12.hkbn.net
 speedtest1b.hkix.net
 st1.htva.net
@@ -71,6 +71,7 @@ speedperf.axione.fr
 speedtest.cittel.ru
 speed.coe.ad.jp
 speedtest.cogeco.ca
+tigobo.ecatel.us
 speedtest.lon1.edgoo.net
 speedtest1.endfid.cl
 ch1.chtm.hinet.net
@@ -232,6 +233,7 @@ speedtest.fios.net.br
 iperf.gakijken.nl
 london.speedtest.highnet.com
 speedtest.host.com.tw
+teste.i9va.net.br
 speedtest1.indosat.com
 sp1.jump.net.uk
 ct-speed.kbro.com.tw
@@ -490,7 +492,6 @@ speed1.spitfireuk.net
 speedtest.swishfibre.com
 speedtest-dallas.swyftfiber.com
 speedtestlon.telefonica.com
-speedtest.telnext.net.br
 speedtest.tropic-host.de
 speedtest.upnetix.com.br
 speedtest.vanciscloud.nl
@@ -507,7 +508,6 @@ speedtest.yless4u.com.au
 speedtest.airlink.network
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
-speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -549,6 +549,7 @@ speedtest-limestonecoast-sa.optusnet.com.au
 speedtest.packetworks.net
 speedtest.portalnt.com.br
 speedtest-obd.redeconecta.com
+speedtest-stm.redeconecta.com
 speedtest-tx-da2.scalematrix.com
 speed.lax-1.serverforge.org
 speed1.yyz-1.serverforge.org
@@ -734,7 +735,6 @@ speedtest-tesa.coelhotecnologia.com.br
 speedtest.fiberlinknetwork.com.br
 +.linknetspeedtest.net.br
 speedtest.mirror.serversaustralia.com.au
-velocidade.ultralinktelecom.com.br
 speedtest.walastikinternet.com.ph
 speedtest.redefinitytelecom.com.br
 aragonnetspeedtest.com.br
