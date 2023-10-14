@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-10-14T03:27:56.427Z
-# Size: 151480
+# Last Updated: 2023-10-14T07:47:32.498Z
+# Size: 151484
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10685,6 +10685,7 @@ ddd.1sapp.com
 +.wp.24smi.org
 +.data-f1e447fbcf.24vita.de
 +.data-f59db3288b.24vita.de
++.24w0p.com
 +.info.2525.link
 +.m1.27com.com
 +.27w8f.com
@@ -18804,6 +18805,7 @@ osupdateservice.yunos.com
 +.z74lb.com
 +.z7yru.com
 +.z82v0.icu
++.z91f4.top
 +.za-ads.de
 +.www2.zacco.com
 +.zacff.com
@@ -24929,6 +24931,7 @@ events.jianshu.io
 +.go.kadant.com
 +.partner.kafista.cz
 +.kafugo.xyz
++.ds1.kaijia.com
 +.track.kailav.com
 +.go.kaisyuf.jp
 +.go.kaivac.com
@@ -26227,6 +26230,7 @@ applog.mobike.com
 +.mrruuov.cn
 +.mrrvmp.com
 +.stats.mrtnvh.com
++.mryqtym.cn
 +.mrzikj.com
 +.az43064.vo.msecnd.net
 +.az693360.vo.msecnd.net

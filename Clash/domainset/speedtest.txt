@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-10-14T03:28:00.634Z
-# Size: 737
+# Last Updated: 2023-10-14T07:47:36.610Z
+# Size: 736
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -269,7 +269,6 @@ speedtest.reicosa.com
 spt1.seed.net.tw
 fetdl2.seed.net.tw
 fetml1.seed.net.tw
-fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -301,6 +300,7 @@ tstarkh1.vibo.net.tw
 stmsk.volga-ix.ru
 speedtestam.vtal.net.br
 speedtestap.vtal.net.br
+speedtestrr.vtal.net.br
 de-bln2-ookla-01.wemacom.net
 de-ffm1-ookla-01.wemacom.net
 speedtest.westcall.ru
@@ -507,7 +507,6 @@ speedtest.yless4u.com.au
 speedtest.airlink.network
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
-speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -701,7 +700,6 @@ suntechspeedtest.com
 teste.suprainternet.com.br
 teste.tstelecomltda.com.br
 speedtest.visiontelecom.com.br
-almeirimtelecom.tv.br
 speedtest.americatelecom.net.br
 cugspeed.chinaunicomglobal.com
 velocidade.conectstelecom.com.br
@@ -733,6 +731,7 @@ ookla.speedtestunonet.com.br
 speedtest.webfibertelecom.com.br
 askeycsit.dyndns-ip.com
 speedtest-tesa.coelhotecnologia.com.br
+speedtest.fiberlinknetwork.com.br
 +.linknetspeedtest.net.br
 speedtest.mirror.serversaustralia.com.au
 speedtest.walastikinternet.com.ph
