@@ -3,6 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const fse = require('fs-extra');
 const { task } = require('./lib/trace-runner');
+const dayjs = require("dayjs");
 
 const rootPath = path.resolve(__dirname, '../');
 const publicPath = path.resolve(__dirname, '../public');
@@ -67,7 +68,7 @@ function template(urlList) {
     <main class="container">
       <h1>Sukka Surge Ruleset Server</h1>
       <p>Made by <a href="https://skk.moe">Sukka</a> | <a href="https://github.com/SukkaW/Surge/">Source @ GitHub</a> | Licensed under <a href="https://github.com/SukkaW/Surge/blob/master/LICENSE" target="_blank">AGPL-3.0</a></p>
-      <p>Last Build: ${new Date().toISOString()}</p>
+      <p>Last Build: ${dayjs().format('YYYY-MM-DD HH:mm:ss')}</p>
       <hr>
       <br>
       <ul>

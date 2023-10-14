@@ -31,6 +31,9 @@ dependencies:
   cidr-tools-wasm:
     specifier: ^0.0.11
     version: 0.0.11
+  dayjs:
+    specifier: ^1.11.10
+    version: 1.11.10
   eslint:
     specifier: ^8.50.0
     version: 8.50.0
@@ -666,6 +669,10 @@ packages:
       path-key: 3.1.1
       shebang-command: 2.0.0
       which: 2.0.2
+
+  /dayjs@1.11.10:
+    resolution: {integrity: sha512-vjAczensTgRcqDERK0SR2XMwsF/tSvnvlv6VcF2GIhg6Sx4yOIt/irsr1RDJsKiIyBzJDpCoXiWWq28MqH2cnQ==}
+    dev: false
 
   /debug@3.2.7:
     resolution: {integrity: sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ==}
