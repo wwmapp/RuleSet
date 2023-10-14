@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-10-07T12:10:51.809Z
-# Size: 327
+# Last Updated: 2023-10-11T09:26:24.058Z
+# Size: 334
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -48,8 +48,6 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,push.sogou.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,v-56.com
 DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzapi.com
@@ -112,6 +110,7 @@ DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,wangsu.com
+DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
@@ -170,6 +169,7 @@ DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,uning.com
@@ -238,6 +238,7 @@ DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
@@ -287,12 +288,18 @@ DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip.bjango.com
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,vmware.com
+DOMAIN-SUFFIX,v-56.com
+DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amd.com
