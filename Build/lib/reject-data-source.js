@@ -6,20 +6,22 @@ const HOSTS = [
   ['https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt', false],
   ['https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt', false],
   ['https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts', false],
-  ['https://urlhaus.abuse.ch/downloads/hostfile/', false]
+  ['https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt', false]
 ];
 
 const ADGUARD_FILTERS = /** @type {const} */([
-  // Easy List
+  // EasyList
   [
     'https://easylist.to/easylist/easylist.txt',
     [
       'https://easylist-downloads.adblockplus.org/easylist.txt',
       'https://raw.githubusercontent.com/easylist/easylist/gh-pages/easylist.txt',
-      'https://secure.fanboy.co.nz/easylist.txt'
+      'https://secure.fanboy.co.nz/easylist.txt',
+      'https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt',
+      'https://ublockorigin.pages.dev/thirdparties/easylist.txt'
     ]
   ],
-  // Easy Privacy
+  // EasyPrivacy
   [
     'https://easylist.to/easylist/easyprivacy.txt',
     [
@@ -40,6 +42,7 @@ const ADGUARD_FILTERS = /** @type {const} */([
   'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt',
   'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt',
   'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt',
+  'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers.txt',
   // uBlock Origin Filter List
   [
     'https://ublockorigin.github.io/uAssets/filters/filters.txt',

@@ -11,6 +11,8 @@ module.exports.DOMESTICS = /** @type {const} */({
       'aliyuncs.com',
       'alikunlun.com',
       'alipay.com',
+      'alipayobjects.com',
+      'alibaba-inc.com',
       'cainiao.com',
       'etao.com',
       '1688.com',
@@ -34,7 +36,8 @@ module.exports.DOMESTICS = /** @type {const} */({
       'koubei.com',
       'guoguo-app.com',
       'mybank.cn',
-      'mmstat.com'
+      'mmstat.com',
+      'uczzd.cn'
     ]
   },
   TENCENT: {
@@ -56,7 +59,8 @@ module.exports.DOMESTICS = /** @type {const} */({
       'tencent-cloud.net',
       'tencent.com',
       'weixinbridge.com',
-      'weixin.com'
+      'weixin.com',
+      'wechat.com'
     ]
   },
   BILIBILI: {
@@ -102,7 +106,9 @@ module.exports.DOMESTICS = /** @type {const} */({
       'feishu.cn',
       'douyin.com',
       'douyinpic.com',
-      'douyinstatic.com'
+      'douyinstatic.com',
+      'volccdn.com',
+      'byted-static.com'
     ]
   },
   BAIDU: {
