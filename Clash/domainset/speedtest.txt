@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-10-14T07:52:22.425Z
-# Size: 736
+# Last Updated: 2023-10-14T12:11:09.978Z
+# Size: 735
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -159,6 +159,7 @@ speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
 speedtest.quadro.net
 speedtest2.rhitcr.com
+stajax.rogers.com
 stguelph.rogers.com
 stlondon.rogers.com
 stmilton.rogers.com
@@ -249,11 +250,11 @@ ncc-speed.kbro.com.tw
 ntp-speed.kbro.com.tw
 nty-speed.kbro.com.tw
 yms-speed.kbro.com.tw
-speedtest.lekloud.net
 speedtest.macarne.com
 speedtest-ca.mathys.page
 ookla.mbspeed.net
 speedtest.mhcable.com
+speedtest.milkywan.fr
 speedtest.nexicom.net
 speedtestlon.orbital.net
 speedtest.procloud.ru
@@ -269,6 +270,7 @@ speedtest.reicosa.com
 spt1.seed.net.tw
 fetdl2.seed.net.tw
 fetml1.seed.net.tw
+fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -507,6 +509,7 @@ speedtest.yless4u.com.au
 speedtest.airlink.network
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
+speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -634,10 +637,6 @@ speedtest-sea.dish-wireless.com
 speedtest-sjc.dish-wireless.com
 teste.easytecham.com.br
 velocidade.exytelecom.com.br
-lon1.fnbuilds.services
-nyc1.fnbuilds.services
-syd1.fnbuilds.services
-tor1.fnbuilds.services
 spd-01.thn.fullfibre.systems
 teste.jlatelecom.com.br
 speedtest.myrepublic.com.sg
@@ -665,7 +664,6 @@ bne-speed.overthewire.com.au
 mel-speed.overthewire.com.au
 syd-speed.overthewire.com.au
 ultraconnect.ravisystems.com.br
-conexprovedor.ravisystems.com.br
 ooklatins.redeconexaonet.com
 speedtest.redrawinternet.com
 velocidade.softtelecom.net.br
@@ -700,6 +698,7 @@ suntechspeedtest.com
 teste.suprainternet.com.br
 teste.tstelecomltda.com.br
 speedtest.visiontelecom.com.br
+almeirimtelecom.tv.br
 speedtest.americatelecom.net.br
 cugspeed.chinaunicomglobal.com
 velocidade.conectstelecom.com.br
