@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-15T12:11:05.945Z
-# Size: 98
+# Last Updated: 2023-10-16T12:13:07.153Z
+# Size: 90
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,6 +13,7 @@
 +.00673.cn
 +.app.link
 +.biz.site
++.elf.site
 +.mpaa.top
 +.zzux.com
 +.dnset.com
@@ -23,11 +24,9 @@
 +.bzemap.top
 +.canva.site
 +.cq2023.top
-+.cq6789.top
 +.crxjjkt.cn
 +.dqlwubq.cn
 +.dwisysw.cn
-+.fzcarv.top
 +.gbykac.top
 +.gm5678.top
 +.ifdrps.top
@@ -43,7 +42,6 @@
 +.qb6r6f.cfd
 +.qhdseh.top
 +.qhncru.top
-+.r8ezah.cfd
 +.rdaqfe.top
 +.ruhzsjo.cn
 +.rzdobw.top
@@ -75,7 +73,6 @@
 +.chajiashi.top
 +.chashouji.top
 +.imagesns.club
-+.kpages.online
 +.spraid.com.cn
 +.xiuluo888.top
 +.chadingwei.top
@@ -83,15 +80,12 @@
 +.temp-site.link
 +.temporary.link
 +.acces0-net.site
-+.dailycloud.shop
 +.help-co-jp.info
 +.kaifangjilu.top
 +.mailbutler.link
 +.pr0nnerlca.site
-+.binguanxinxi.top
 +.bjlangjie.com.cn
 +.chuguichaxun.top
-+.cxblovker.sa.com
 +.foundatoin1.shop
 +.marketmaking.pro
 +.homemfirme.online
@@ -101,10 +95,8 @@
 +.sb74ht3humc1u51i.shop
 +.amazon-verify-link.top
 +.agsgw1gq61g16g1asd.cyou
-+.amazon-developments.com
 +.intelligentpower.com.cn
 +.rassnonsdeconsiewhor.ml
-+.gbyfdwjdoexkbdjehdid.top
 +.spankkispanishstray.site
 +.mengunjungi-website15.cfd
 +.quality-page-bussiness-5621325678451268.ink
