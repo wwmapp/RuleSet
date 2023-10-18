@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-17T12:12:56.303Z
-# Size: 89
+# Last Updated: 2023-10-18T12:31:04.115Z
+# Size: 81
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,20 +13,15 @@
 +.00673.cn
 +.app.link
 +.biz.site
-+.elf.site
 +.mpaa.top
 +.zzux.com
 +.dnset.com
-+.id-co.pro
 +.rdwrtu.cn
-+.xx-id.icu
 +.ay0123.top
-+.beget.tech
 +.brizy.site
 +.bzemap.top
 +.canva.site
 +.cq2023.top
-+.crxjjkt.cn
 +.dwisysw.cn
 +.gbykac.top
 +.gm5678.top
@@ -36,11 +31,9 @@
 +.itsaol.com
 +.khtqts.top
 +.kvzcny.top
-+.ldoepj.top
 +.ljhlna.top
 +.odzjkf.top
 +.omrntt.top
-+.qb6r6f.cfd
 +.qhdseh.top
 +.qhncru.top
 +.rdaqfe.top
@@ -50,18 +43,17 @@
 +.ufvnjr.top
 +.vcbfvc.top
 +.vizvaz.com
-+.wikaba.com
 +.xynthp.top
 +.yigewg.top
 +.zxjvsxf.cn
 +.aayy222.top
 +.arborth.top
 +.audacad.top
++.cprapid.com
 +.mare01.club
 +.onedumb.com
 +.wsoqwa9.top
 +.yahaha.mobi
-+.zdsxcac.top
 +.chalvshe.top
 +.company.site
 +.frappe.cloud
@@ -72,6 +64,7 @@
 +.chajiashi.top
 +.chashouji.top
 +.imagesns.club
++.paneldeni.icu
 +.spraid.com.cn
 +.xiuluo888.top
 +.chadingwei.top
@@ -79,19 +72,18 @@
 +.temporary.link
 +.theprolife.xyz
 +.acces0-net.site
++.deniprivate.xyz
 +.help-co-jp.info
 +.kaifangjilu.top
 +.mailbutler.link
 +.pr0nnerlca.site
 +.bjlangjie.com.cn
 +.chuguichaxun.top
-+.foundatoin1.shop
 +.marketmaking.pro
 +.homemfirme.online
 +.tinipmusighnaca.gq
 +.meuportalbra01.site
 +.page-management.ink
-+.imkd3c1ssk3d776f.shop
 +.sb74ht3humc1u51i.shop
 +.amazon-verify-link.top
 +.agsgw1gq61g16g1asd.cyou
