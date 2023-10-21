@@ -64,6 +64,7 @@ SUFFIX,bmp.ovh
 SUFFIX,brew.sh
 SUFFIX,bwbx.io
 SUFFIX,cat.net
+SUFFIX,csb.app
 SUFFIX,csb.dev
 SUFFIX,css.net
 SUFFIX,dan.com
@@ -201,6 +202,7 @@ SUFFIX,joox.com
 SUFFIX,jspm.dev
 SUFFIX,judge.me
 SUFFIX,kagi.com
+SUFFIX,ksyuncs.
 SUFFIX,kwai.net
 SUFFIX,legra.ph
 SUFFIX,live.com
@@ -241,6 +243,7 @@ SUFFIX,split.io
 SUFFIX,spoti.fi
 SUFFIX,start.me
 SUFFIX,super.so
+SUFFIX,surge.sh
 SUFFIX,t-ru.org
 SUFFIX,t66y.com
 SUFFIX,tmdb.org
@@ -304,6 +307,7 @@ SUFFIX,dmm.co.jp
 SUFFIX,dnitv.com
 SUFFIX,docker.io
 SUFFIX,dsc.cloud
+SUFFIX,dweb.link
 SUFFIX,dzcdn.net
 SUFFIX,emome.net
 SUFFIX,faire.com
@@ -729,6 +733,7 @@ SUFFIX,jscloud.net
 SUFFIX,kaleido.art
 SUFFIX,kavin.rocks
 SUFFIX,kktv.com.tw
+SUFFIX,ksyuncs.com
 SUFFIX,kym-cdn.com
 SUFFIX,litnet.work
 SUFFIX,livedoor.jp
@@ -830,6 +835,7 @@ SUFFIX,4everland.io
 SUFFIX,abema-tv.com
 SUFFIX,addtoany.com
 SUFFIX,adobedtm.com
+SUFFIX,aliyuncs.com
 SUFFIX,amazon.co.jp
 SUFFIX,amcharts.com
 SUFFIX,anaconda.com
@@ -933,6 +939,7 @@ SUFFIX,mobilius.top
 SUFFIX,modrinth.com
 SUFFIX,mokeedev.com
 SUFFIX,muscache.com
+SUFFIX,myqcloud.com
 SUFFIX,navattic.com
 SUFFIX,newsblur.com
 SUFFIX,nicovideo.jp
@@ -1435,8 +1442,10 @@ SUFFIX,streamhentai.org
 SUFFIX,sunofbeaches.com
 SUFFIX,tampermonkey.net
 SUFFIX,unrealengine.com
+SUFFIX,usercontent.goog
 SUFFIX,visualstudio.com
 SUFFIX,vscode-unpkg.net
+SUFFIX,vultrobjects.com
 SUFFIX,waveprotocol.org
 SUFFIX,wikiplus-app.com
 SUFFIX,wpcomstaging.com
@@ -1470,6 +1479,7 @@ SUFFIX,grumpybumpers.com
 SUFFIX,highwinds-cdn.com
 SUFFIX,imagedelivery.net
 SUFFIX,independent.co.uk
+SUFFIX,linodeobjects.com
 SUFFIX,lltaohuaxiang.com
 SUFFIX,mvnrepository.com
 SUFFIX,nationbuilder.com
@@ -1557,6 +1567,7 @@ SUFFIX,ssl-images-amazon.com
 SUFFIX,storjipfs-gateway.com
 SUFFIX,unified-streaming.com
 SUFFIX,brick.a.ssl.fastly.net
+SUFFIX,digitaloceanspaces.com
 SUFFIX,dropboxusercontent.com
 SUFFIX,firefoxusercontent.com
 SUFFIX,misskeyusercontent.com
@@ -1642,6 +1653,8 @@ SUFFIX,runkit-packages-static-executables.com
 SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
 SUFFIX,practicaldev-herokuapp-com.freetls.fastly.net
 SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
+REGEX,-files\.gitbook\.io
+REGEX,-res\.cloudinary\.com
 REGEX,-spotify-com
 REGEX,-tiktokcdn-com
 REGEX,\.hbogoasia\.
@@ -1651,6 +1664,7 @@ REGEX,avoddashs
 REGEX,bbcfmt
 REGEX,blogspot
 REGEX,discord
+REGEX,dsn\.algolia\.net
 REGEX,dualstack\.apiproxy-
 REGEX,dualstack\.ichnaea-web-
 REGEX,facebook
@@ -1666,5 +1680,7 @@ REGEX,rthklive
 REGEX,sci-hub
 REGEX,tvbanywhere
 REGEX,uk-live
+REGEX,vod-adaptive\.akamaized\.net
 REGEX,voddazn
+REGEX,web-assets\.zendesk
 REGEX,whatsapp
