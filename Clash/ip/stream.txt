@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Stream Services IPs
-# Last Updated: 2023-11-04T12:10:46.235Z
+# Last Updated: 2023-11-05T12:22:16.512Z
 # Size: 19
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
