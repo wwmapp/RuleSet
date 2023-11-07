@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2023-11-06T12:30:30.671Z
+#!desc=Last Updated: 2023-11-07T12:27:46.426Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
