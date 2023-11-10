@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-11-09T12:12:45.819Z
-# Size: 850
+# Last Updated: 2023-11-10T12:12:13.933Z
+# Size: 848
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,6 +11,7 @@ speedtest1.mk.de
 speedtest1.sc.189.cn
 speedtest-sg.cbn.id
 st.mow.gin.ru
+speedtest.hep.gg
 speedtest.kko.me
 speedtest-cbr.cdn.on.net
 mia-1.speed.pfm.gg
@@ -42,7 +43,6 @@ speedtest.ropa.de
 speedtest.sits.su
 speedtest.tigo.cr
 speedtest-srv01.tut.net
-speedtest.upp.com
 ams-eq6-tptest1.31173.se
 fra-eq5-tptest1.31173.se
 lon-ix1-tptest1.31173.se
@@ -281,7 +281,6 @@ ct-speed.kbro.com.tw
 da-speed.kbro.com.tw
 fm-speed.kbro.com.tw
 kp-speed.kbro.com.tw
-ks-speed.kbro.com.tw
 nt-speed.kbro.com.tw
 tc-speed.kbro.com.tw
 uc-speed.kbro.com.tw
@@ -336,7 +335,6 @@ speedtest.tinp.net.tw
 speedtest.tushino.com
 speedtest.twds.com.tw
 speedtest.twerion.net
-speedtest.ulcloud.net
 speedtest.ams14.usenet.farm
 falcon.its.utoronto.ca
 jp-nperf.verizon.net
@@ -442,7 +440,6 @@ speedtest.cometbot.info
 speedtest.comnet.com.tr
 speedtest1.mia.fl.us.convergia.net
 speedtest.qld.edgeix.net.au
-mia.emiliauhh.com
 nsw.speedtest.exetel.com.au
 qld.speedtest.exetel.com.au
 vic.speedtest.exetel.com.au
@@ -457,7 +454,6 @@ speedtest.thn.uk.hso-group.net
 speedtest.i4networks.nl
 speedtest.inforr.com.br
 hiztesti.isimkayit.com
-kadoshspeed.kadoshnet.com
 speedtest16.lintas.net.id
 sptest2.mgts-spdop.ru
 speedtest-sg.napinfo.co.id
@@ -467,7 +463,6 @@ stlondon.netcrawler.ca
 stoshawa.netcrawler.ca
 stwhitby.netcrawler.ca
 speedtest.netcrawler.ca
-stbrampton.netcrawler.ca
 sthamilton.netcrawler.ca
 stwaterloo.netcrawler.ca
 stetobicoke.netcrawler.ca
@@ -478,7 +473,6 @@ stmississauga.netcrawler.ca
 stscarborough.netcrawler.ca
 netgearsj.com
 speedtest.netgeartec.tk
-speedtestist.netmax.com.tr
 speedtest-syr.northland.net
 speedtest-utc.northland.net
 speedtest.us.openinfra.com
@@ -585,7 +579,6 @@ speedtest.airlink.network
 speedtest.bursabil.com.tr
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
-speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -636,6 +629,7 @@ speedtest.rekornet.com.tr
 speedtest-tx-da2.scalematrix.com
 speed.lax-1.serverforge.org
 speed1.yyz-1.serverforge.org
+test.skyfibernet.com
 speedtest.softether.co.jp
 speedtest.springfibre.com
 speedtest-ndb1.tasmanet.com.au
@@ -644,6 +638,7 @@ speedtest-tdc3.tasmanet.com.au
 speedtest-vds1.tasmanet.com.au
 speedtestnyc.telebermuda.com
 speedtest.telecablecr.com
+speedtest.ufinetlatam.net
 speedtest.uplinkrr.com.br
 denizli.verinomidns.com
 istanbul.verinomidns.com
@@ -656,6 +651,7 @@ speedtest-lax.advinservers.com
 speedtest.apnettelecom.net
 miaspeedtest.blackburn-pr.com
 speedtest.brightstar.cloud
+topmz.brsserver.com.br
 sp1.campanaworks.com
 speedtest.cyberline.com.br
 speedtest.cyberlink.net.br
@@ -674,6 +670,7 @@ speedtest.inyonetworks.com
 speedtest.jctelecon.com.br
 speedtest.lightsource1.com
 speedtest.markahost.com.tr
+speedtest.pdhosting.com.tr
 miami-speedtest.reliablesite.net
 los-angeles-speedtest.reliablesite.net
 speedtest.routinger.com.br
@@ -721,6 +718,7 @@ speedtest-dfw.dish-wireless.com
 speedtest-lax.dish-wireless.com
 speedtest-mia.dish-wireless.com
 speedtest-nyc.dish-wireless.com
+speedtest-sea.dish-wireless.com
 speedtest-sjc.dish-wireless.com
 teste.easytecham.com.br
 velocidade.exytelecom.com.br
@@ -827,7 +825,6 @@ st2.barquisimeto.intercomservicios.com
 speedtest.japanettelecom.com.br
 speedtest2.lightningfibre.net.uk
 speedteste.newsolutionnet.com.br
-speedtest.pinguimtelecom.net.br
 provedorconect.net.br
 speedtest.redenettelecom.com.br
 speedtest.sea.accretive-networks.net
@@ -844,12 +841,13 @@ speedtest.conectaamazonia.com.br
 speedtest.greenlightnetworks.com
 speed.newclicktelecom.com.br
 ookla.siditelecom-isp.com.br
+ookla.speedtestunonet.com.br
 speedtest.webfibertelecom.com.br
 askeycsit.dyndns-ip.com
 speedtest-tesa.coelhotecnologia.com.br
-ok.conectmastelecom.com.br
 +.linknetspeedtest.net.br
 speedtest.mirror.serversaustralia.com.au
+speedtest2.connectatelecompa.com.br
 speedtest.redefinitytelecom.com.br
 speedtestspeednet.com.br
 test.infoconnecttelecom.com.br
