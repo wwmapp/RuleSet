@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Apple Domains
-# Last Updated: 2023-11-20T12:13:04.203Z
+# Last Updated: 2023-11-21T12:13:00.784Z
 # Size: 17
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
