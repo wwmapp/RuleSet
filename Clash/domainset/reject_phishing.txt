@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-11-22T12:12:55.030Z
+# Last Updated: 2023-11-23T12:12:24.518Z
 # Size: 31
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -16,6 +16,7 @@
 +.brizy.site
 +.canva.site
 +.khtqts.top
++.vgenqbl.cn
 +.202305300.cn
 +.202306135.cn
 +.202306196.cn
@@ -32,7 +33,6 @@
 +.mailbutler.link
 +.marketmaking.pro
 +.novabanso.online
-+.sfcrmproducts.cn
 +.verifyaddress.xyz
 +.tinipmusighnaca.gq
 +.coconutkoboko.click
