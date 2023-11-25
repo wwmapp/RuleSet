@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-11-24T12:12:35.552Z
-# Size: 863
+# Last Updated: 2023-11-25T12:11:21.211Z
+# Size: 862
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,7 +29,6 @@ speedtest.ddps.jp
 ookla-speedtest.fsr.com
 speedtest.hay.net
 +.speedtest.i3d.net
-speedtesta.kpn.com
 speedtest.krhs.de
 speedtest.link.bm
 speed.uk.lon.m247.ro
@@ -121,7 +120,6 @@ speed1.swhab.net
 tnookla.tn.edu.tw
 speedtest-nl.vdsina.ru
 speedtest-ru.vdsina.ru
-speedtest-ade.vocus.net
 speedtest-bne.vocus.net
 speedtest-mel.vocus.net
 speedtest-syd.vocus.net
@@ -185,7 +183,6 @@ izmirspeedtest.posive.net
 edirnespeedtest.posive.net
 manisaspeedtest.posive.net
 bilecikspeedtest.posive.net
-denizlispeedtest.posive.net
 kocaelispeedtest.posive.net
 kutahyaspeedtest.posive.net
 sakaryaspeedtest.posive.net
@@ -276,7 +273,6 @@ speedtest1.net.cornell.edu
 speedtest.cubedns.com
 speedtest.dcsi.net.au
 speedtest.dtronics.uk
-spt-mia.edgeuno.com
 speedtest2.esrv.center
 sg-speedtest.fast.net.id
 speedtest.fios.net.br
@@ -394,11 +390,11 @@ sjdm-speedtest.globe.com.ph
 speed.golddata.net
 speedtest.helpmert.com
 speedtest.idnet.net.br
+speedtest.syd.infininet.au
 speedtest.eu.kamatera.com
 speedtest.eu-lo.kamatera.com
 speedtest.us-mi.kamatera.com
 ookla.speedtest.seattle.wa.limewave.net
-speedtest.linkchina.hk
 speedtest-1.litfibre.com
 m1speedtest1.m1net.com.sg
 speedtest-ams.melbicom.net
@@ -624,6 +620,8 @@ ntp-speedtest.homeplus.net.tw
 sky-speedtest.homeplus.net.tw
 speedtest-nl.hyperfilter.com
 teste.ihgfibra.net.br
+speedtest.berlin.jonasdevries.de
+speedtest.frankfurt.jonasdevries.de
 teste.jsnet.manaus.br
 speedtest.kapteyan.com.tr
 de-fra2-lg1.level66.network
@@ -643,7 +641,6 @@ speedtest-townsville-qld.optusnet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
 speedtest.orixinet.com.br
 speedtest.packetworks.net
-speedtest.portalnt.com.br
 speedtest-obd.redeconecta.com
 speedtest.rekornet.com.tr
 speedtest-tx-da2.scalematrix.com
@@ -787,6 +784,7 @@ speedtest.trenchnetworks.com
 bur1speedtest.turktelekom.com.tr
 esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
+geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com
@@ -822,6 +820,7 @@ speedtest-sydney.macquarietelecom.com
 speedtest-brisbane.macquarietelecom.com
 speedtest-melbourne.macquarietelecom.com
 st2.octopustelecom.co.uk
+speedtest.redevisualnet.com.br
 velocimetro.speednetworks.com.br
 speed-server3.summit-broadband.com
 suntechspeedtest.com
