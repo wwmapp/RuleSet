@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-12-01T12:12:36.041Z
-# Size: 27
+# Last Updated: 2023-12-02T12:11:03.182Z
+# Size: 25
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,8 +29,6 @@
 +.mailbutler.link
 +.hgcf65edfch.buzz
 +.marketmaking.pro
-+.elijecaminos.site
-+.orders-sipay.site
 +.isadijkroispsu.xyz
 +.coconutkoboko.click
 +.page-management.ink
