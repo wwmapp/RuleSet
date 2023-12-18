@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2023-12-17T12:11:24.376Z
+# Last Updated: 2023-12-18T12:13:14.968Z
 # Size: 117
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
