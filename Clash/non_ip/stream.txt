@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Stream Services
-# Last Updated: 2023-12-18T12:13:14.961Z
+# Last Updated: 2023-12-19T12:12:23.858Z
 # Size: 283
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
