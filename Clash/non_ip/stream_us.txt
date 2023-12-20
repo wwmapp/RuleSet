@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: North America
-# Last Updated: 2023-12-19T05:49:23.556Z
+# Last Updated: 2023-12-19T15:12:27.772Z
 # Size: 36
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
