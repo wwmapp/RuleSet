@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-01-02T12:12:20.419Z
+# Last Updated: 2024-01-03T12:12:19.679Z
 # Size: 121
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
